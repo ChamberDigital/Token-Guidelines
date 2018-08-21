@@ -1,5 +1,5 @@
 ##Understanding Digital Tokens: Market Overviews & Proposed Guidelines
-for Policymakers & Practitioners##
+for Policymakers & Practitioners
 
 Prepared by: Token Alliance
 
@@ -7,7 +7,7 @@ An Industry Initiative of the Chamber of Digital Commerce
 
 
 
-##Chamber of Digital Commerce ##
+##Chamber of Digital Commerce 
 
 The Chamber of Digital Commerce is the world’s largest trade association
 representing the blockchain industry. Our mission is to promote the
@@ -16,7 +16,7 @@ education, advocacy, and working closely with policymakers, regulatory
 agencies, and industry, our goal is to develop a pro-growth legal
 environment that fosters innovation, jobs, and investment.
 
-##Token Alliance ##
+##Token Alliance 
 
 The Token Alliance is an industry-led initiative of the Chamber of
 Digital Commerce, developed to be a key resource for the emerging
@@ -29,7 +29,7 @@ guidelines for the responsible development of tokens.
 
 ![](./media/image1.png)
 
-##Table of Contents##
+##Table of Contents
 
 1.  Acknowledgements
     
@@ -67,9 +67,9 @@ guidelines for the responsible development of tokens.
 
 7.  Looking Ahead
 
-##ACKNOWLEDGEMENTS##
+##ACKNOWLEDGEMENTS
 
-##Token Alliance Co-Chairs ##
+##Token Alliance Co-Chairs
 
 Paul Atkins
 
@@ -89,7 +89,7 @@ Chairman, U.S. Commodity Futures Trading Commission (2001–2004)
 
 Commissioner, U.S. Commodity Futures Trading Commission (1998-2001)
 
-##Token Alliance Leadership Committee##
+##Token Alliance Leadership Committee
 
 The Chamber of Digital Commerce would like to recognize the following
 individuals for their thought leadership, oversight of, and support to
@@ -128,7 +128,7 @@ Colleen Sullivan, CEO, CMT Digital
 
 Joshua Stein, Chief Executive Officer, Harbor
 
-##Expert Contributors ##
+##Expert Contributors 
 
 The Chamber of Digital Commerce would also like to thank the following
 individuals and organizations for their valuable contributions to the
@@ -192,7 +192,7 @@ Les Wilkinson, Chief Development Officer, Hashed Health
 
 
 
-##Global Subject Matter Experts##
+##Global Subject Matter Experts
 
 The Chamber of Digital Commerce would like to express its gratitude to
 the following firms and individuals for authoring the country specific
@@ -258,7 +258,7 @@ Jonathan Garcia, Partner, ISOLAS LLP
 
 
 
-##Token Alliance Participants ##
+##Token Alliance Participants 
 
 The Chamber of Digital Commerce would like to thank the following
 companies and individuals for their support of and participation in the
@@ -562,7 +562,7 @@ Zen Blockchain Foundation
 
 
 
-##Foreword##
+##Foreword
 
 *By Co-Chairs Paul Atkins and James Newsome*
 
@@ -579,7 +579,7 @@ have for our economy were front and center in the news and headlines.
 the past year have revealed some of the strengths and weaknesses of the
 industry.
 
-##Why Tokens?##
+##Why Tokens?
 
 When Bitcoin, the first-ever blockchain network, was released
 pseudonymously, the author(s) published the code open source – anyone
@@ -606,7 +606,7 @@ several of these characteristics, and some have suggested that a token
 may start representing one (or more characteristics) and then shift to
 encompass others.
 
-##The Token Policy Debate: Activity Underway in Washington ##
+##The Token Policy Debate: Activity Underway in Washington 
 
 The biggest policy debate currently underway in the blockchain industry
 is when is a token considered to be a “*security*” and, perhaps more
@@ -648,7 +648,7 @@ responsibilities. Yet Trading Platforms also confront major challenges
 related to perceptions of regulators regarding the legal status of
 tokens traded on their platforms.
 
-##The Token Alliance: Creating Guidance for Token Generation Events##
+##The Token Alliance: Creating Guidance for Token Generation Events
 
 We believe that it is the industry’s responsibility actively to engage
 firms, individuals, and businesses involved in the generation,
@@ -681,7 +681,7 @@ efforts.
 
 
 
-##INTRODUCTION – The Case for Digital Tokens##
+##INTRODUCTION – The Case for Digital Tokens
 
 For the purposes of this report, digital tokens (or “tokens”) are
 defined as transferable units generated within a distributed network
@@ -761,12 +761,12 @@ regulators may also seek to intervene in this debate and exercise their
 jurisdiction.
 
 ##The guidelines presented in this report seek to address ONLY the sale
-and trading of commodity tokens that do not constitute securities.##
+and trading of commodity tokens that do not constitute securities.
 While developers can issue token-based securities in compliance with
 U.S. securities laws, this report does not address that topic.
 ##Significantly, the topics addressed in this document remain in flux,
 as regulators and Congress continue to study and react to this
-fast-growing industry.##
+fast-growing industry.
 
 Industry and government need to work together to create a regulatory
 landscape that enables participants in digital token markets to more
@@ -822,33 +822,33 @@ earlier generations or distributions of digital tokens by Token Sponsors
 not be retroactively analyzed by applying the principles and guidelines
 set forth in this report, as past Token Sponsors did not have the
 benefit of the experience, regulatory guidance, and interpretations
-underlying this report.##
+underlying this report.
 
 A few words of caution.
 
  
 
-##THE REPORT DOES NOT CONSTITUTE LEGAL ADVICE##
+##THE REPORT DOES NOT CONSTITUTE LEGAL ADVICE
 
   - ##Specifically, nothing in this report should be construed as advice
     regarding the law of the United States, Canada, England and Wales,
-    or Australia. ##
+    or Australia. 
 
   - ##This report’s analysis of the criteria under which it is
     determined that tokens constitute securities or commodities do not
-    constitute a restatement of law. ##
+    constitute a restatement of law. 
 
   - ##This report, including its suggested guidelines, merely express
     the general views of the Token Alliance, and compliance with such
     guidelines cannot assure that the distribution or trading of tokens
-    will fully comply with the laws discussed herein. ##
+    will fully comply with the laws discussed herein. 
 
   - ##These views are being offered for discussion purposes only, and
     they have not been sanctioned by the SEC, the CFTC, or any other
-    regulator. ##
+    regulator. 
 
 ##CONSULT LEGAL COUNSEL BEFORE DISTRIBUTING OR HOSTING TRADES OF
-TOKENS##
+TOKENS
 
   - Token Sponsors and associated parties seeking to generate or
     distribute a blockchain-based token should seek independent legal
@@ -874,7 +874,7 @@ The Token Alliance will continue to study the issues surrounding
 appropriate regulation for tokens and it will offer additional insights,
 as appropriate, when new developments arise.
 
-##PART 1: REGULATORY OVERVIEW##
+##PART 1: REGULATORY OVERVIEW
 
 This part includes three sections, each providing an overview of the
 regulatory and legal landscape in a different jurisdiction. Section 1
@@ -884,9 +884,9 @@ Section 5 focuses on Gibraltar.
 
 <span class="underline">##Section 1##:</span>
 
-##United States##
+##United States
 
-1.  ##Introduction##
+1.  ##Introduction
 
 This section provides an overview of U.S. rules and regulations
 applicable to digital tokens, primarily focusing on the distinct
@@ -937,10 +937,10 @@ U.S. Treasury Department has a range of anti-money laundering and
 sanctions enforcement powers. Additionally, markets for digital tokens
 are subject to a number of tax law implications.
 
-##II. Legal Classifications & Related Regulatory Considerations##
+##II. Legal Classifications & Related Regulatory Considerations
 
 1.  ##Virtual currencies and many app-coins – commodities, not
-    securities##
+    securities
 
 The term “commodity,” as defined in the Commodity Exchange Act (“CEA”),
 is very broad, and includes “all services, rights, and interests . . .
@@ -1162,7 +1162,7 @@ occur within 28 days, or the exchange of one or more payments based on
 the value of one or more rates for, or prices of, intangible or tangible
 commodities.
 
-2.  ##Tokenized Securities##
+2.  ##Tokenized Securities
 
 The SEC and its staff have historically interpreted the definition of
 “security” under the Securities Act of 1933 (the “1933 Act” or the
@@ -1325,7 +1325,7 @@ particular digital token is a security, then a panoply of federal
 securities laws applies to the distribution and trading of that token,
 as outlined below.
 
-1.  ##Registration of Offers and Sales##
+1.  ##Registration of Offers and Sales
 
 Section 5 of the Securities Act prohibits the sale of securities to the
 public unless a registration statement for such securities has been
@@ -1404,7 +1404,7 @@ requirements, including:
 Issuers also need to be aware of potential state law securities
 registration requirements.
 
-2.  ##Secondary Market Trading ##
+2.  ##Secondary Market Trading 
 
 Investors can resell securities that they acquire in private and public
 offerings in private transactions, on registered securities exchanges or
@@ -1453,7 +1453,7 @@ or one-year restricted period, i.e., a period during which the security
 may not be traded, as set out in Rule 144 under the Securities
 Act.\[60\]
 
-3.  ##Anti-Fraud, Anti-Manipulation, and Related Rules##
+3.  ##Anti-Fraud, Anti-Manipulation, and Related Rules
 
 Federal securities laws, rules, and regulations (*e.g.,* Rule 10b-5
 under the Exchange Act) prohibit, directly or indirectly, fraud and
@@ -1474,7 +1474,7 @@ Additionally, there are a number of state laws, such as the Martin Act
 of New York State, related to fraud and manipulation in securities
 markets.
 
-4.  ##Other Issues##
+4.  ##Other Issues
 
 If a derivatives market emerges for which the underlying asset is a
 tokenized security, either the SEC or the CFTC would regulate the
@@ -1495,7 +1495,7 @@ technology to electronically transfer record ownership of securities as
 or on behalf of an issuer may be subject to the registration
 requirements of Section 17A of the Exchange Act.
 
-3.  ##When Digital Tokens are Neither Securities nor Commodities##
+3.  ##When Digital Tokens are Neither Securities nor Commodities
 
 As suggested earlier, it is possible – and perhaps appropriate – for
 some digital tokens to be viewed as neither a security nor a commodity
@@ -1521,9 +1521,9 @@ commodities. Indeed, the broader regulatory considerations set forth
 below apply not just to tokens that are neither securities nor
 commodities, but also to all other digital tokens, broadly defined.
 
-##III. Broader Regulatory Considerations##
+##III. Broader Regulatory Considerations
 
-1.  ##Consumer protection issues##
+1.  ##Consumer protection issues
 
 Regardless of the legal category (security versus commodity versus
 neither) of a particular digital token, state attorneys general (“AG”)
@@ -1556,7 +1556,7 @@ protection statutes and Title X of the Dodd-Frank Act, the Bureau
 continues to analyze the nature of products or services tied to virtual
 currencies.”\[68\]
 
-2.  ##State money transmission laws ##
+2.  ##State money transmission laws 
 
 Trading Platforms that receive for transmission or transmit U.S. dollars
 in exchange for virtual currency are regulated as money transmitters in
@@ -1576,7 +1576,7 @@ anti-fraud policy as well as other enumerated policies. Further, federal
 law makes it a crime to fail to obtain state money transmitter licenses
 when required to do so.\[70\]
 
-3.  ##Anti-money laundering and sanctions regulations##
+3.  ##Anti-money laundering and sanctions regulations
 
 Anti-money laundering (“AML”) regulations and associated requirements
 are significantly important to how digital tokens can be distributed and
@@ -1598,7 +1598,7 @@ these obligations and restrictions. To maintain compliance with both of
 these regimes, companies must have some understanding of persons with
 whom they interact.
 
-1.  ##Bank Secrecy Act & related regulatory requirements##
+1.  ##Bank Secrecy Act & related regulatory requirements
 
 In 1970, the U.S. Congress passed the Currency and Foreign Transactions
 Reporting Act, commonly known as the BSA, which established requirements
@@ -1686,7 +1686,7 @@ additional AML standards. For example, holders of New York’s
 
 <!-- end list -->
 
-2.  ##Office of Foreign Assets Control Requirements##
+2.  ##Office of Foreign Assets Control Requirements
 
 The Office of Foreign Assets Control (“OFAC”) administers and enforces
 both comprehensive and targeted economic and trade sanctions to further
@@ -1717,7 +1717,7 @@ what to do if such a transaction or dealing is attempted, including
 “blocking” (freezing) of accounts or property, or prohibiting or
 rejecting the transaction.
 
-3.  ##Executive Order 13827 and Venezuela-Related Sanctions##
+3.  ##Executive Order 13827 and Venezuela-Related Sanctions
 
 On January 19, 2018, OFAC published FAQ 551 stating that U.S. persons
 who engage in purchasing or otherwise dealing with the Venezuelan petro
@@ -1789,7 +1789,7 @@ FAQ 563 states that the format in which a digital currency address is
 included on the SDN list will include its corresponding digital
 currency.
 
-4.  ##Federal Income Tax Treatment##
+4.  ##Federal Income Tax Treatment
 
 The federal income tax consequences of transactions involving digital
 tokens is a developing area of law. The IRS has issued some guidance in
@@ -1798,7 +1798,7 @@ property for U.S. tax purposes, rather than, for example, as foreign
 currency. However, Notice 2014-21 does not cover all of the terrain, and
 there are a number of areas of remaining uncertainty.
 
-1.  ##Treatment of Convertible Virtual Currencies Under Notice 2014-21##
+1.  ##Treatment of Convertible Virtual Currencies Under Notice 2014-21
 
 In April 2014, the IRS issued Notice 2014-21, which explains, in
 question and answer format, the application of existing general tax
@@ -1883,7 +1883,7 @@ backup withholding from the payment if a TIN is not obtained prior to
 payment or if the payor receives notification from the IRS that backup
 withholding is required.
 
-2.  ##Other Tax Issues Involving Virtual Currencies##
+2.  ##Other Tax Issues Involving Virtual Currencies
 
 Notice 2014-21 does not provide guidance on certain issues relating to
 the tax treatment of virtual currencies, including: (i) whether and how
@@ -1968,7 +1968,7 @@ digital token are given other digital tokens for free. The timing of
 income recognition in an airdrop is unclear, and airdrops may present
 valuation issues as well.
 
-1.  ##Tax Treatment of Token Distributions and SAFTs##
+1.  ##Tax Treatment of Token Distributions and SAFTs
 
 Treasury and the IRS have not issued any guidance concerning the tax
 treatment of token distributions. In general, the facts and
@@ -2005,9 +2005,9 @@ contract and tax the proceeds upon receipt. The efficacy of the SAFT
 approach to token generation remains controversial, and is not a settled
 regulatory matter.
 
-##<span class="underline">Section 2</span>:##
+##<span class="underline">Section 2</span>:
 
-##Canada##
+##Canada
 
 # Introduction
 
@@ -2584,11 +2584,11 @@ individual as “a recidivist Quebec securities law violator” and the ICO
 as a “full-fledged cyber scam.”\[121\]
 
 ##<span class="underline">  
-</span>##
+</span>
 
-##<span class="underline">Section 3:</span>##
+##<span class="underline">Section 3:</span>
 
-##United Kingdom##
+##United Kingdom
 
 # Introduction
 
@@ -3008,9 +3008,9 @@ The FCA also recently stated that:
     initial coin offering (ICO), will require authorisation by the
     FCA.”\[131\]
 
-##<span class="underline">Section 4:</span>##
+##<span class="underline">Section 4:</span>
 
-##Australia##
+##Australia
 
 # Introduction
 
@@ -3532,13 +3532,13 @@ activity. It is hoped that this report encourages regulatory activity to
 grow as well. 
 
 ##<span class="underline">  
-</span>##
+</span>
 
-##<span class="underline">Section 5:</span>##
+##<span class="underline">Section 5:</span>
 
-##Gibraltar##
+##Gibraltar
 
-1.  ##Introduction##
+1.  ##Introduction
 
 On 1<sup>st</sup> January 2018, Her Majesty’s Government of Gibraltar
 (“HMGOG”) brought into effect a new distributed ledger technology
@@ -3578,7 +3578,7 @@ amongst other things, the promotion and sale of digital tokens in and
 from Gibraltar and set out its proposals in a document issued on
 12<sup>th</sup> February 2018 (the “Token Framework Proposal”).
 
-2.  ##The Gibraltar Regulatory Framework##
+2.  ##The Gibraltar Regulatory Framework
 
 Digital tokens vary widely in design and purpose. In some cases, they
 may represent securities, such as shares in a company, and their
@@ -3659,7 +3659,7 @@ entities issuing such types of digital tokens may still have to comply
 with classic consumer protection law,\[182\] depending on the design of
 the digital token.
 
-##A. Gibraltar Contract Law##
+##A. Gibraltar Contract Law
 
 The law of contract in Gibraltar is similar to the law in England and
 Wales. English common law applies in Gibraltar in accordance with the
@@ -3685,7 +3685,7 @@ digital tokens by misrepresenting (whether fraudulently or negligently)
 the nature of the
 arrangement.
 
-### ##B. Implementation of E-Commerce and Consumer Protection Regulations into Gibraltar Law##
+### ##B. Implementation of E-Commerce and Consumer Protection Regulations into Gibraltar Law
 
 All relevant E.U. legislation covering e-commerce and consumer
 protection has been transposed into Gibraltar law via various Acts of
@@ -3723,7 +3723,7 @@ so, where;
 > further, such general terms and conditions must be accessible to the
 > recipient of the service for him to store and retrieve them.\[189\]
 
-### ##ii. Duty to Provide Information under Consumer Protection Law##
+### ##ii. Duty to Provide Information under Consumer Protection Law
 
 If the contract on which a digital token is based constitutes a consumer
 contract, further consumer protection rules apply, as set out in the
@@ -3734,7 +3734,7 @@ highlighted under Part 2 of the Consumer Rights on Contracts Regulations
 in relation to off-premises and on-premises contracts under Schedule 1
 and Schedule 2 respectively.
 
-##C. Money Laundering ##
+##C. Money Laundering 
 
 The E.U. Anti Money Laundering Directive has been transposed into
 Gibraltar law by the Proceeds of Crime Act (“POCA”).\[191\] It should be
@@ -3757,7 +3757,7 @@ as well as apply certain record keeping requirements. The business must
 also maintain## an AML compliance program and report suspicious
 activity.
 
-3.  ##Proposed Regulatory Framework##
+3.  ##Proposed Regulatory Framework
 
 As set out above, most often digital tokens do not qualify as securities
 under Gibraltar or E.U. legislation.\[193\] In the event that they do
@@ -3806,7 +3806,7 @@ The Framework will not regulate:
 The following sections set out at a high level the scope of the new
 proposed Framework.
 
-1.  ##Disclosure Rules##
+1.  ##Disclosure Rules
 
 The first limb of the Framework intends to deal with digital tokens that
 are not regarded as securities within the meaning of Gibraltar law. As
@@ -3843,7 +3843,7 @@ framework such as the one being proposed in Gibraltar. As a result, the
 GFSC can ensure and enforce their regulatory objectives through the
 implementation of the Framework.
 
-2.  ##Financial Crime Provisions##
+2.  ##Financial Crime Provisions
 
 As discussed above, a recent amendment to POCA under section 9(1)(p)
 means that token issuers now fall under its scope. It remains to be seen
@@ -3856,7 +3856,7 @@ token regulations come into force, existing statutory safeguards require
 all token issuers to carry out due diligence on digital token purchasers
 and to mitigate AML/CFT risks.
 
-3.  ##Authorised Token Sponsors##
+3.  ##Authorised Token Sponsors
 
 As outlined above, the GFSC intends to regulate:
 
@@ -3899,7 +3899,7 @@ process.
 The GFSC will establish and maintain a public register of authorised
 sponsors and their respective past and present codes of practice.
 
-4.  ##Secondary Market Operations##
+4.  ##Secondary Market Operations
 
 Apart from the DLT Framework, operating a secondary market platform for
 trading tokens is not currently regulated in Gibraltar. The Framework
@@ -3918,7 +3918,7 @@ under MiFID II\[196\] and the Markets in Financial Instruments
 Regulation (MiFIR),\[197\] so far as is appropriate, proportionate, and
 relevant.
 
-5.  ##Investment and Ancillary Service Providers##
+5.  ##Investment and Ancillary Service Providers
 
 Providing investment and ancillary services relating to digital tokens
 is not currently regulated in Gibraltar. HMGOG has proposed to regulate
@@ -3950,7 +3950,7 @@ introducers, marketing professionals, technical developers and smart
 contract auditors, economic, legal and tax advisors, cybersecurity
 firms, escrow agents, etc.).
 
-4.  ##DLT Services##
+4.  ##DLT Services
 
 As set out above, the DLT Framework is a licensing regime for
 individuals and firms that engage in activities that, for business
@@ -3965,14 +3965,14 @@ the actual digital token sale, which may remain unregulated until the
 new legislation referred to above comes into effect.
 
 ##<span class="underline">  
-</span>##
+</span>
 
 5.  ##<span class="underline">PART 2</span>##\[199\]
 
-##<span class="underline">Section 1</span>##
+##<span class="underline">Section 1</span>
 
 ##<span class="underline">PRINCIPLES AND GUIDELINES FOR TOKEN
-SPONSORS</span>##
+SPONSORS</span>
 
 This section provides introductory principles and guidelines for Token
 Sponsors as a way to promote sound business practices. As explained in
@@ -4008,12 +4008,12 @@ such principles and guidelines cannot assure that the sale or trading of
 tokens will fully comply with law. These views are being offered for
 discussion purposes only, and they have not been sanctioned by the SEC,
 the CFTC, or any other regulator. You should consult legal counsel
-before offering, distributing, or trading digital tokens.##
+before offering, distributing, or trading digital tokens.
 
 1.  When is a Digital Token Subject to Regulation by the U.S. Securities
     and Exchange Commission or Commodity Futures Trading Commission?
 
-##Characteristics of a Security##
+##Characteristics of a Security
 
 As explained in the U.S. Regulatory Overview provided in Part 1, U.S.
 federal securities laws define “security” broadly. A digital token that
@@ -4043,7 +4043,7 @@ or
 Even referring to an “initial coin offering” or “ICO” may invite
 comparison to an initial public offering of securities.
 
-##The *Howey* Test##
+##The *Howey* Test
 
 As explained in the U.S. Regulatory Overview, digital tokens may trigger
 U.S. federal securities laws if they are an “investment contract” – a
@@ -4065,9 +4065,9 @@ laws analyze the application of the *Howey* Test to a Token Sponsor’s
 proposed digital token before the token is offered or distributed. This
 includes any form of distribution, including system-based rewards,
 “airdrops,” and distributions to employees, founders, contractors, and
-consultants.##
+consultants.
 
-##Commodity Regulation##
+##Commodity Regulation
 
 The U.S. Regulatory Overview explains how the CFTC may exercise general
 anti-fraud and anti-manipulation authority over any digital token it
@@ -4316,7 +4316,7 @@ clear division of labor can be helpful, with the whitepaper and certain
 other information focused on how people can use the token and other
 materials focused on how and why people should acquire tokens.
 
-##Sponsors Should Market a Product Rather than an Investment##
+##Sponsors Should Market a Product Rather than an Investment
 
 Marketing materials should focus on the benefits of using the token for
 its intended application and be addressed to those likely to use the
@@ -4326,7 +4326,7 @@ before receiving their tokens. Marketing efforts should not be directed
 at those known to be in the business of or making a practice of
 recommending or purchasing tokens as investments.
 
-##Information that Should Be Included in a Whitepaper##
+##Information that Should Be Included in a Whitepaper
 
 A Token Sponsor’s whitepaper is a critical document. A whitepaper
 provides background on a Sponsor’s token project, as well as specifics
@@ -4422,7 +4422,7 @@ not be included in their whitepapers.
     the sole intention of selling for increased returns.
 
 ##Information that Should Not Be Included in a Token Sponsor’s
-Whitepaper##
+Whitepaper
 
   - ##Allocation of the pre-mine##: A Token Sponsor’s whitepaper should
     avoid discussion of any allocation of tokens for investors,
@@ -4459,7 +4459,7 @@ Whitepaper##
 > application(s).
 
 ##Information that Should Not Be Included in a Token Sponsor’s
-Promotional and Marketing Materials Generally##
+Promotional and Marketing Materials Generally
 
   - ##Intentional misrepresentations or misleading statements##: A Token
     Sponsor should not make any misrepresentations, misleading
@@ -4502,7 +4502,7 @@ Promotional and Marketing Materials Generally##
     in such a way that creates an expectation that their efforts will
     help the price of the relevant digital token appreciate.
 
-##Conclusion##
+##Conclusion
 
 Following these *Principles and Guidelines for Token Sponsors* provides
 no guarantee that a federal or state regulator will not take issue with
@@ -4515,10 +4515,10 @@ Alliance’s *Principles and Guidelines for Token Trading Platforms*.
 
 
 
-##Section 2##
+##Section 2
 
 ##<span class="underline">PRINCIPLES AND GUIDELINES FOR TOKEN TRADING
-PLATFORMS </span>##
+PLATFORMS </span>
 
 This section provides introductory principles and guidelines for
 entities that allow the trading of digital tokens on their platforms and
@@ -4729,7 +4729,7 @@ Trading Platforms should address:
     opened, the Token Sponsor should refrain from discussing the token’s
     potential for price appreciation.
 
-##Conclusion##
+##Conclusion
 
 Following these *Principles and Guidelines for Token Trading Platforms*
 provides no guarantee that a federal or state regulator will not take
@@ -4741,13 +4741,13 @@ digital tokens. These *Principles and Guidelines for Token Trading
 Platforms* should be read in concert with the Token Alliance’s
 *Principles and Guidelines for Token Sponsors*.
 
-##PART 3##
+##PART 3
 
-##Token Economic Landscape##
+##Token Economic Landscape
 
-##Trends in Token Project Fundraising Events: 2013-Present ##
+##Trends in Token Project Fundraising Events: 2013-Present 
 
-##I. Methodology##
+##I. Methodology
 
 Measuring digital token project\[205\] size is difficult. To do so,
 throughout this part, the term “digital token projects” or “token
@@ -4769,7 +4769,7 @@ tokens. Some data may be missing or subject to future revision, and
 fundraising events occurring more than 30 days apart are treated as
 separate.
 
-##II. Introduction##
+##II. Introduction
 
 The scale of token project fundraising events over the past several
 quarters has been a defining feature of the industry, and has prompted
@@ -4805,7 +4805,7 @@ Finally, examining the different industries present within the space,
 and how their component sectors typically function can yield additional
 insights into how the technology is being applied.
 
-##III. Total Amounts Raised in Token Project Fundraising Events##
+##III. Total Amounts Raised in Token Project Fundraising Events
 
 As Figure 2 illustrates, in 2016, over $100 million was raised for token
 projects (not including funds raised through the DAO and returned). At
@@ -4873,7 +4873,7 @@ characterization continued apace:
 
 ![](./media/image22.png)
 
-##IV. Token Project Average Fundraising Amount##
+##IV. Token Project Average Fundraising Amount
 
 A long-running debate within the digital token ecosystem concerns the
 question of how much projects should seek to raise? As noted, prior to
@@ -4907,7 +4907,7 @@ issues concerning the treatment by some major regulators of certain
 digital tokens as securities will likely shape the near-term trajectory
 of the markets.
 
-##V. The Relative Size of Token Project Fundraising Activity##
+##V. The Relative Size of Token Project Fundraising Activity
 
 Impressive 2017 growth aside, token project fundraising and blockchain
 investments remain small relative to IPOs or venture capital investments
@@ -4938,7 +4938,7 @@ amounts. Rounds for the same project that are separated by more than 30
 days are treated as separate fundraising events. Some data may be
 missing or subject to future revision.
 
-##VI. Distribution of Token Projects by Dollar-Volume Size##
+##VI. Distribution of Token Projects by Dollar-Volume Size
 
 As discussed above, the diversity of token project size and type is
 often underappreciated. Figure 8 below divides 2017-18 token projects
@@ -4954,7 +4954,7 @@ the general health of the industry.
 
 ![](./media/image26.png)
 
-##VII. Geography of Token Sales##
+##VII. Geography of Token Sales
 
 Figure 9 illustrates both the relative concentrations and the geographic
 diversity of amounts raised by token projects globally since 2013. The
@@ -5002,7 +5002,7 @@ fundraising center for global projects.
 
 ![](./media/image29.png)
 
-##VIII. Industry Analysis##
+##VIII. Industry Analysis
 
 In an effort to keep up with the dramatic increase in breadth,
 diversity, and, as a result, complexity of the token space in 2017,
@@ -5047,7 +5047,7 @@ and education.
 ●  ##Finance## - Payments systems, distributed trading platforms, and
 distributed prediction markets.
 
-##IX. Conclusion##
+##IX. Conclusion
 
 Overall, token projects are both diverse and constantly evolving. Their
 accompanying fundraising events are global in nature, and the patchwork
@@ -5062,7 +5062,7 @@ cases, and accompanying network models.
 
 
 
-##VII. Looking Ahead##
+##VII. Looking Ahead
 
 The concept of digital tokens is complex. As SEC Commissioner Hester
 Peirce recently said, she used to know what a token was. Now it’s not so
