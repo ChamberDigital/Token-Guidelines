@@ -5,8 +5,7 @@ Prepared by: Token Alliance
 
 An Industry Initiative of the Chamber of Digital Commerce
 
-**  
-**
+
 
 **Chamber of Digital Commerce **
 
@@ -163,7 +162,7 @@ Kiran Nagaraj, Managing Director, KPMG USA
 
 Jay Natarajan, Senior Global Solutions Architect, Microsoft
 
-Lindsey Nelson, Research, Smith + Crown
+Lindsay Nelson, Research, Smith + Crown
 
 Kwon Park, Director of Business Development, Bittrex
 
@@ -191,8 +190,7 @@ Jason Weinstein, Partner, Steptoe
 
 Les Wilkinson, Chief Development Officer, Hashed Health
 
-**  
-**
+
 
 **Global Subject Matter Experts**
 
@@ -258,8 +256,7 @@ Joey Garcia, Partner, ISOLAS LLP
 
 Jonathan Garcia, Partner, ISOLAS LLP
 
-**  
-**
+
 
 **Token Alliance Participants **
 
@@ -563,8 +560,7 @@ Zaahah
 
 Zen Blockchain Foundation
 
-**  
-**
+
 
 **Foreword**
 
@@ -683,8 +679,7 @@ tokenized networks that improve peoples’ lives. We invite all those
 dedicated to supporting and growing this thriving ecosystem to join our
 efforts.
 
-**  
-**
+
 
 **INTRODUCTION – The Case for Digital Tokens**
 
@@ -4518,8 +4513,7 @@ digital token issuance, sale and distribution. These *Principles and
 Guidelines for Token Sponsors* should be read in concert with the Token
 Alliance’s *Principles and Guidelines for Token Trading Platforms*.
 
-**  
-**
+
 
 **Section 2**
 
@@ -5066,8 +5060,7 @@ been able to occur through well-managed fundraising events, and future
 digital token projects will likely feature unexplored designs, use
 cases, and accompanying network models.
 
-**  
-**
+
 
 **VII. Looking Ahead**
 
